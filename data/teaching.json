@@ -1,0 +1,18 @@
+{
+  "assistant": [
+    {"code": "ENGR 520 A", "title": "Physics-Informed Machine Learning", "level": "Graduate", "institution": "University of Washington", "terms": "Spring 2026"},
+    {"code": "IE 305", "title": "Simulation", "level": "Undergraduate", "institution": "Sabanci University", "terms": "Spring 2020, 2021; Fall 2021"},
+    {"code": "MATH 306", "title": "Statistical Modeling", "level": "Undergraduate", "institution": "Sabanci University", "terms": "Spring 2022"},
+    {"code": "ENS 208 A,B", "title": "Introduction to Industrial Engineering", "level": "Undergraduate", "institution": "Sabanci University", "terms": "Fall 2020"}
+  ],
+  "training": [
+    {"text": "Teaching@UW: Strategies for TAs, University of Washington", "years": "2026"},
+    {"text": "Grad WAC Fellow (Writing Across the Curriculum), Pearce Center, Clemson University", "years": "2023–2024"},
+    {"text": "Teaching Assistant Training and Orientation, Sabanci University", "years": "2020"}
+  ],
+  "mentoring": [
+    {"role": "Mentor, NSF Future Manufacturing Data Challenge", "institution": "Texas A&M University", "years": "2026", "link": "https://arxiv.org/pdf/2607.07965"},
+    {"role": "Research Mentor, Undergraduate Researchers (Creative Inquiry Program)", "institution": "Clemson University", "years": "2022–2024"},
+    {"role": "Research Mentor, M.Sc. Student", "institution": "Clemson University", "years": "2022–2024"}
+  ]
+}

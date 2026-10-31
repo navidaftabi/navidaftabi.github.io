@@ -1,0 +1,50 @@
+{
+  "talks": [
+    {"year": "2026", "title": "SUBVERT: A Stealth-Constrained Strategic Cyberattack in Unified Cyber-Physical Systems via Reinforcement Learning", "venue": "IISE Annual Conference", "place": "Arlington, TX, USA"},
+    {"year": "2025", "title": "DynaMark: A Reinforcement Learning Framework for Dynamic Watermarking in Industrial Machine Tool Controllers", "venue": "International Mechanical Engineering Congress & Exposition (IMECE)", "place": "Memphis, TN, USA"},
+    {"year": "2025", "title": "SUBVERT: A Stealth-Constrained Strategic Cyberattack in Unified Cyber-Physical Systems via Reinforcement Learning", "venue": "INFORMS Annual Conference", "place": "Atlanta, GA, USA"},
+    {"year": "2025", "title": "DynaMark: A Reinforcement Learning Framework for Dynamic Watermarking in Industrial Machine Tool Controllers", "venue": "IISE Annual Conference", "place": "Atlanta, GA, USA"},
+    {"year": "2024", "title": "DynaMark: A Reinforcement Learning Framework for Dynamic Watermarking in Industrial Machine Tool Controllers", "venue": "INFORMS Annual Conference", "place": "Seattle, WA, USA"},
+    {"year": "2024", "title": "A Case Study on Optimal Watermarking in Machine Tool Controllers", "venue": "International Mechanical Engineering Congress & Exposition (IMECE)", "place": "Portland, OR, USA"},
+    {"year": "2023", "title": "An Integrated Cyber-Physical Risk Assessment Framework for Worst-Case Attacks in Industrial Control Systems", "venue": "INFORMS Annual Conference", "place": "Phoenix, AZ, USA"},
+    {"year": "2023", "title": "An Optimization Framework for Cyber-Physical Vulnerability Analysis in Industrial Cyber-Physical Systems", "venue": "IISE Annual Conference", "place": "New Orleans, LA, USA"},
+    {"year": "2021", "title": "Deep Learning Algorithms For Learning the Objective Value of the VRP", "venue": "INFORMS Annual Conference", "place": "Anaheim, CA, USA"}
+  ],
+  "track_chair": [
+    "Cybersecurity Track (Co-Chair with Dr. Lynette Wilcox), IISE 2026, Arlington, TX, USA"
+  ],
+  "session_chair": [
+    "Data Science for Cyber-Physical Security and Resilience, INFORMS 2026, San Francisco, CA, USA",
+    "Under Attack: Ransomware and Cyber Attack Modeling for Industrial Environments, IISE 2026, Arlington, TX, USA",
+    "Data Science for Cyber-Physical Security and Resilience, INFORMS 2025, Atlanta, GA, USA",
+    "Data Science for Cyber-Physical Security and Resilience, INFORMS 2024, Seattle, WA, USA",
+    "Deep Learning/Machine Learning II, INFORMS 2021, Anaheim, CA, USA"
+  ],
+  "journal_referee": [
+    "IEEE Transactions on Industrial Informatics",
+    "IEEE Transactions on Automation Science and Engineering",
+    "IEEE Transactions on Cybernetics",
+    "IEEE Transactions on Engineering Management",
+    "IEEE Transactions on Control of Network Systems",
+    "Reliability Engineering & System Safety",
+    "ASME Journal of Computing and Information Science in Engineering",
+    "Nonlinear Dynamics",
+    "Expert Systems with Applications",
+    "The Journal of Supercomputing",
+    "Signal, Image and Video Processing",
+    "Machine Learning with Applications"
+  ],
+  "conference_referee": [
+    "IISE Annual Conference and Expo",
+    "SME's North American Manufacturing Research Conference (NAMRC)",
+    "ASME International Mechanical Engineering Congress & Exposition (IMECE)",
+    "IEEE International Conference on Intelligent Transportation Systems",
+    "International Conference on Machine Learning and Applications (ICMLA)",
+    "American Control Conference (ACC)"
+  ],
+  "memberships": [
+    {"name": "Institute for Operations Research and the Management Sciences (INFORMS)", "years": "2021–Present"},
+    {"name": "Institute of Industrial & Systems Engineers (IISE)", "years": "2023–Present"},
+    {"name": "Society of Manufacturing Engineers (SME)", "years": "2024–Present"}
+  ]
+}

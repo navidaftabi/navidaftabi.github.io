@@ -1,0 +1,80 @@
+{
+  "legend": "J = Journal, C = Conference, S = Submitted, W = Working Paper, PT = Patent",
+  "groups": [
+    {
+      "id": "journal",
+      "title": "Refereed Journal Papers",
+      "subtitle": "Published / Accepted",
+      "items": [
+        {"label": "J.6", "type": "article", "authors": ["Navid Aftabi", "Abhishek Hanchate", "Satish T.S. Bukkapatnam", "Dan Li"], "year": "2026",
+         "title": "DynaMark: A Reinforcement Learning Framework for Dynamic Watermarking in Industrial Machine Tool Controllers",
+         "venue": "IEEE Transactions on Automation Science and Engineering", "volume": "23", "pages": "13658–13676", "doi": "10.1109/TASE.2026.3715642",
+         "award": "IISE DAIS Best Student Paper Award (Finalist), 2025"},
+        {"label": "J.5", "type": "article", "authors": ["Navid Aftabi", "Philip Samaha", "Jin Ma", "Long Cheng", "Ramy Harik", "Dan Li"], "year": "2026",
+         "title": "ViSTR-GP: Online Cyberattack Detection via Vision-to-State Tensor Regression and Gaussian Processes in Automated Robotic Operations",
+         "venue": "Journal of Manufacturing Systems", "volume": "89", "pages": "504–523", "doi": "10.1016/j.jmsy.2026.09.008"},
+        {"label": "J.4", "type": "article", "authors": ["Navid Aftabi", "Dan Li", "Thomas C. Sharkey"], "year": "2025",
+         "title": "An Integrated Cyber-Physical Framework for Worst-Case Attacks in Industrial Control Systems",
+         "venue": "IISE Transactions", "volume": "57", "number": "12", "pages": "1464–1482", "doi": "10.1080/24725854.2024.2439856",
+         "award": "Top-4 IISE Transactions Featured Paper, 2026 ICQSR, Hong Kong"},
+        {"label": "J.3", "type": "article", "authors": ["Fatemeh Mahroo", "Nima Moradi", "Navid Aftabi", "Mahmoud Houshmand", "Omid Fatahi Valilai"], "year": "2026",
+         "title": "A Novel Integer Linear Model for Reliability-Centric Service Composition in Cloud Manufacturing",
+         "venue": "Computers & Industrial Engineering", "volume": "211", "pages": "111603", "doi": "10.1016/j.cie.2025.111603"},
+        {"label": "J.2", "type": "article", "authors": ["Navid Aftabi", "Nima Moradi", "Fatemeh Mahroo", "Farhad Kianfar"], "year": "2025",
+         "title": "SD-ABM-ISM: An Integrated System Dynamics and Agent-based Modeling Framework for Information Security Management in Complex Information Systems with Multi-Actor Threat Dynamics",
+         "venue": "Expert Systems with Applications", "volume": "263", "pages": "125681", "doi": "10.1016/j.eswa.2024.125681"},
+        {"label": "J.1", "type": "article", "authors": ["Navid Aftabi", "Nima Moradi", "Fatemeh Mahroo"], "year": "2025",
+         "title": "Feed-Forward Neural Networks as a Mixed-Integer Program",
+         "venue": "Engineering with Computers", "volume": "41", "pages": "2411–2429", "doi": "10.1007/s00366-025-02114-2"}
+      ]
+    },
+    {
+      "id": "conference",
+      "title": "Refereed Conference Papers",
+      "subtitle": "Published / Accepted",
+      "items": [
+        {"label": "C.1", "authors": ["Navid Aftabi", "Paritosh Ramanan", "Dan Li"], "year": "2026",
+         "title": "PINPOINT: Probabilistic Residual Fusion for Cyberattack Detection and Localization in Power Systems",
+         "status": "Manuscript accepted for publication in", "venue": "25th IEEE International Conference on Machine Learning and Applications (ICMLA’26)"}
+      ]
+    },
+    {
+      "id": "submitted",
+      "title": "Submitted Papers",
+      "subtitle": "Under Review / Revision",
+      "items": [
+        {"label": "S.2", "authors": ["Aditya Parameshwaran", "Navid Aftabi", "Abhishek Hanchate", "Satish Bukkapatnam", "Dan Li", "Yue Wang"], "year": "2026+",
+         "title": "Dynamic Watermarking and Action-Conditioned Latent Dynamics for Secure Vision-Based Controllers",
+         "status": "Manuscript under review for publication in", "venue": "2027 American Control Conference (ACC)"},
+        {"label": "S.1", "type": "preprint", "authors": ["Nima Moradi", "Niloufar Mirzavand Boroujeni", "Navid Aftabi", "Amin Aslani"], "year": "2024+",
+         "title": "Two-echelon Electric Vehicle Routing Problem in Parcel Delivery: A Literature Review",
+         "status": "Manuscript under revision for publication in", "venue": "European Journal of Operational Research",
+         "doi": "10.48550/arXiv.2412.19395", "arxiv": "2412.19395", "linkLabel": "arXiv"}
+      ]
+    },
+    {
+      "id": "working",
+      "title": "Working Papers",
+      "items": [
+        {"label": "W.3", "authors": ["Navid Aftabi", "Dan Li"],
+         "title": "SUBVERT: A Stealth-Constrained Strategic Cyberattack in Unified Cyber-Physical Systems via Reinforcement Learning",
+         "status": "Working paper, target journal:", "venue": "IISE Transactions"},
+        {"label": "W.2", "authors": ["Navid Aftabi", "Philip Samaha", "Ramy Harik", "Dan Li"],
+         "title": "ViST-DiFA: Online Vision-to-State Diagnosis for Differentiating Faults and Cyberattacks in Automated Robotic Operations",
+         "status": "Under preparation, target journal:", "venue": "Journal of Manufacturing Systems"},
+        {"label": "W.1", "authors": ["Navid Aftabi", "Dan Li", "Prashanth Rajivan"],
+         "title": "CyberReady: Uncertainty-Aware Personalized Anti-Phishing Training under Sparse Behavioral Feedback and Limited Training Budgets",
+         "status": "Working paper"}
+      ]
+    },
+    {
+      "id": "patents",
+      "title": "Patents",
+      "items": [
+        {"label": "PT.1", "authors": ["Navid Aftabi", "Zi Wang", "Houtao Deng"],
+         "title": "A Personalized & Targeted Sequential Retention Incentivization System",
+         "status": "Patent in preparation (Instacart)"}
+      ]
+    }
+  ]
+}
