@@ -48,7 +48,7 @@
          "status": "Manuscript under review for publication in", "venue": "2027 American Control Conference (ACC)"},
         {"label": "S.1", "type": "preprint", "authors": ["Nima Moradi", "Niloufar Mirzavand Boroujeni", "Navid Aftabi", "Amin Aslani"], "year": "2024+",
          "title": "Two-echelon Electric Vehicle Routing Problem in Parcel Delivery: A Literature Review",
-         "status": "Manuscript under revision for publication in", "venue": "European Journal of Operational Research",
+         "status": "Manuscript revised and submitted to", "venue": "European Journal of Operational Research",
          "doi": "10.48550/arXiv.2412.19395", "arxiv": "2412.19395", "linkLabel": "arXiv"}
       ]
     },
