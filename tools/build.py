@@ -310,7 +310,7 @@ def build_publications():
         items = "\n".join(pub_item(p) for p in g["items"])
         secs.append(section(g["id"], g["title"], f'      <ol class="entries">\n{items}\n      </ol>', g.get("subtitle")))
     return page("/publications/", "Publications", head + "\n\n" + "\n\n".join(secs), current="Publications",
-                description="Publications of Navid Aftabi: journal papers, conference papers, submitted papers, working papers, and patents.",
+                description="Publications of Navid Aftabi: journal papers, conference papers, submitted papers, and working papers.",
                 script=COPY_JS)
 
 

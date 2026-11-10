@@ -1,5 +1,5 @@
 {
-  "legend": "J = Journal, C = Conference, S = Submitted, W = Working Paper, PT = Patent",
+  "legend": "J = Journal, C = Conference, S = Submitted, W = Working Paper",
   "groups": [
     {
       "id": "journal",
@@ -65,15 +65,6 @@
         {"label": "W.1", "authors": ["Navid Aftabi", "Dan Li", "Prashanth Rajivan"],
          "title": "CyberReady: Uncertainty-Aware Personalized Anti-Phishing Training under Sparse Behavioral Feedback and Limited Training Budgets",
          "status": "Working paper"}
-      ]
-    },
-    {
-      "id": "patents",
-      "title": "Patents",
-      "items": [
-        {"label": "PT.1", "authors": ["Navid Aftabi", "Zi Wang", "Houtao Deng"],
-         "title": "A Personalized & Targeted Sequential Retention Incentivization System",
-         "status": "Patent in preparation (Instacart)"}
       ]
     }
   ]
